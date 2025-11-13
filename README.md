@@ -4,7 +4,7 @@
 Small Office, Home Office Network Configuration on Cisco Packet Tracer Platform. 
 	One  router and one  switch to be used (all CISCO products).
 	3 departments (Admin/IT, Finance/HR and Customer service/Reception).
-	Each department is required to be in different VIANS.
+	Each department is required to be in different VLANS.
 	Each department is required to have a wireless network for the users.
 	Host devices in the network are required to obtain IPv4 address automatically.
 	Devices in all the departments are required to communicate with each other.
